@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ella Dorsey"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Student at Lawrence University studying biology and piano performance. I'm new to data science."
+  bio    : "Student at Lawrence University studying biology and piano performance."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
